@@ -1,0 +1,7 @@
+pydantic-ai 
+tavily-python 
+openai 
+nest_asyncio 
+devtools 
+httpx s
+treamlit
